@@ -2,7 +2,7 @@
 Jednostavni imenik napisan u pythonu sa dosta funkcija...
 
 
-# OPIS FUNKCIJA
+# Opis Funkcija
 
 
 Funkcija upis: Pravi/dodaje novi zapis u tabelu kontakti(CSV) sa atributima uzetim iz text/comboboxeva i poziva funkciju prikaži koja dodaje unos na treeview prikaz.
