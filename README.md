@@ -2,10 +2,6 @@
 Jednostavni imenik napisan u pythonu sa dosta funkcija...
 
 
-<p></p>
-<p></p>
-<p></p>
-
 # OPIS FUNKCIJA
 
 
