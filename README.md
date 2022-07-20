@@ -30,3 +30,12 @@ Funkcija zaključaj: Isključuje opciju korišćenja odredjenih komandnih dugmi�
 Funkcija ocisti: Čisti sve unose iz text/comboboxeva radi jednostavnijeg ponovnog unosa.
 
 Funkcije otvori opis/uputstvo: Otvaraju nove prozore klikom na odredjene dugmiće, novi prozori prikazuju tekst uputsvta ili opisa programa.
+
+
+# Lista Zadataka
+
+* Prevesti program i dodati dugme za prevod
+* Dodati trenutno vreme u program
+* Dodati opciju za omiljeni kontakt u vidu zvezdice
+* Dodati login ekran
+
